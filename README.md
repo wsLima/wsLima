@@ -1,6 +1,6 @@
 ### Olá! eu sou Kennedy Lima 👋
 
-- 🔭 Hoje trabalho como dev pleno
+- 🔭 Hoje trabalho como dev senior
 - 🌱 Estudando cloud computing
 
 <div align="center">
