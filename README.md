@@ -40,11 +40,11 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/wsLima" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wsLima&theme=dracula&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kennedy-lima-842b4612a/)](https://www.linkedin.com/in/kennedy-lima-842b4612a/)
+[![Linkedin](https://img.shields.io/badge/-Kennedy-Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kennedy-lima-842b4612a/)](https://www.linkedin.com/in/kennedy-lima-842b4612a/)
 [![Gmail Badge](https://img.shields.io/badge/-kennedy.wslima@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kennedy.wslima@gmail.com)](kennedy.wslima@gmail.com)
