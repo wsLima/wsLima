@@ -10,10 +10,13 @@
 **Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Spring Boot](https://img.shields.io/badge/-SrpingBoot-333333?style=flat&logo=SpringBoot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![SQL Server](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
-!
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
+
 
 **Utilidades**
 
@@ -26,15 +29,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+![Azure VSTS](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure&logoColor=007ACC)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=IntelliJ&logoColor=007ACC)
 
 <br/>
 
