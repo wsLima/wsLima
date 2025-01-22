@@ -10,7 +10,7 @@
 **Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Spring Boot](https://img.shields.io/badge/-SrpingBoot-333333?style=flat&logo=SpringBoot)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![SQL Server](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
